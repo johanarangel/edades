@@ -1,2 +1,2 @@
-# rayos_X
+# edades
 Ejercicio
